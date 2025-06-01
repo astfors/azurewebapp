@@ -1,5 +1,3 @@
-throw new Error('Simulerad krasch'); // Simulerar ett fel direkt vid uppstart
-
 const http = require('http');
 const axios = require('axios');
 
